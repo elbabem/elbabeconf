@@ -1,5 +1,0 @@
-{
-  
-  "CardReaderELBABE": 4
-  
-}
